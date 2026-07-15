@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Kismat Ali
 
-<!--
-**passion-with-heart/passion-with-heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications using the MERN Stack. Currently improving my skills in JavaScript, React.js, Node.js, Express.js, and MongoDB while creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+- Advanced React
+- Redux Toolkit
+- REST APIs
+- Authentication (JWT)
+- Deployment
+
+### 📂 Featured Projects
+
+- 🛒 MERN E-Commerce Website
+- 🎨 Gradient Generator
+- ⏱ Professional Stopwatch
+- 📝 Text Analyzer
+- ✅ Todo Application
+
+### 📫 Connect with Me
+
+- 📍 Amethi, Uttar Pradesh, India
+- 💼 LinkedIn: (Add your LinkedIn profile link)
+
+---
+
+⭐ I enjoy solving real-world problems through code and continuously learning new technologies.
