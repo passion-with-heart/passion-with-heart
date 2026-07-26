@@ -35,7 +35,8 @@ I'm passionate about building modern web applications using the MERN Stack. Curr
 ### 📫 Connect with Me
 
 - 📍 Amethi, Uttar Pradesh, India
-- 💼 LinkedIn: (Add your LinkedIn profile link)
+- 💼 LinkedIn: (linkedin.com/in/kismat-ali-1350b7352)
+- 💼 Email: (passionwithheart1@gmail.com)
 
 ---
 
