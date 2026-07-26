@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kismat Ali
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abcb1e9a-db2f-48bf-9d3e-38cef5c45df3" /># Hi 👋, I'm Kismat Ali
 
 ## 🚀 Aspiring Full Stack MERN Developer
 
@@ -6,7 +6,7 @@ I'm passionate about building modern web applications using the MERN Stack. Curr
 
 ### 💻 Tech Stack
 
-- HTML5
+-https://passion-with-heart.github.io/simple-todos/ HTML5
 - CSS3
 - JavaScript (ES6+)
 - React.js
@@ -25,11 +25,12 @@ I'm passionate about building modern web applications using the MERN Stack. Curr
 
 ### 📂 Featured Projects
 
-- 🛒 MERN E-Commerce Website
-- 🎨 Gradient Generator
-- ⏱ Professional Stopwatch
-- 📝 Text Analyzer
-- ✅ Todo Application
+- ⌨️ [Keyboard Inspector](https://github.com/Passion-With-Heart/keyboard-inspector)
+- ⚛️ [Grid Periodic Table](https://github.com/Passion-With-Heart/grid-periodic-table)
+- ⏱️ [Professional Stopwatch](https://github.com/Passion-With-Heart/professional-stopwatch)
+- 📝 [Text Analyzer](https://github.com/Passion-With-Heart/text-analyzer)
+- ✅ [Simple Todos](https://github.com/Passion-With-Heart/simple-todos)
+- 🧮 [Calculator](https://github.com/Passion-With-Heart/calculator)
 
 ### 📫 Connect with Me
 
